@@ -113,8 +113,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "catppuccin"
-      variation: "frappe"
+      theme: "sanctum"
+      variation: "pistachio"
       mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
