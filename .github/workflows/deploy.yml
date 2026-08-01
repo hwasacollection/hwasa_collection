@@ -5,9 +5,6 @@ on:
     branches:
       - v5
  
-env:
-  THEME_NAME: sanctum-reborn.pistachio
-
 permissions:
   contents: read
   pages: write
@@ -18,9 +15,7 @@ concurrency:
   cancel-in-progress: false
  
 jobs:
-name: Fetch Quartz Theme
-run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $sanctum-reborn.pistachio
-build:
+ build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
