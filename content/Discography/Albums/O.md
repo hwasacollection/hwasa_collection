@@ -1,6 +1,6 @@
 ---
 base: "[[Albums.base]]"
-cover: "[[O.png]]"
+cover:
 Category: Mini-Album
 Release date: 2024-09-19
 Release photos:

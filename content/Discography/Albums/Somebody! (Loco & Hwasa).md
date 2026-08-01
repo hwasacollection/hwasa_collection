@@ -1,6 +1,6 @@
 ---
 base: "[[Albums.base]]"
-cover: "[[Somebody! (Loco & Hwasa).jpeg]]"
+cover:
 Category: Single album
 Release date: 2022-07-25
 Release photos: []

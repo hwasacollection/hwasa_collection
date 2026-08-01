@@ -1,6 +1,6 @@
 ---
 base: "[[Albums.base]]"
-cover: "[[María.jpeg]]"
+cover:
 Category: Mini-Album
 Release date: 2020-06-29
 Release photos:

@@ -1,6 +1,6 @@
 ---
 base: "[[Albums.base]]"
-cover: "[[TWIT 1.jpeg]]"
+cover:
 Category: Single album
 Release date: 2019-02-13
 Release photos:
