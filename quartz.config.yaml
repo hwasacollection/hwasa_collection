@@ -111,9 +111,10 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
+    enabled: true
     options:
-      theme: "sanctum-reborn"
-      variation: "pistachio"
+      theme: "catppuccin"
+      variation: "frappe"
       mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
