@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Hwasa Collection
-  pageTitleSuffix: ""
+  pageTitleSuffix: "Hwasa Collection"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -113,8 +113,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "sanctum"
-      variation: "pistachio"
+      theme: "aura"
       mode: "both"
   - source: "@quartz-community/remove-draft"
     enabled: true
