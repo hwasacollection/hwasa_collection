@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Home
+tags:
+  - basics
+  - hubs
+draft: false
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
