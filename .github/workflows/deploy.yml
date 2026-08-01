@@ -18,9 +18,9 @@ concurrency:
   cancel-in-progress: false
  
 jobs:
- name: Fetch Quartz Theme
-  run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $sanctum-reborn.pistachio
-  build:
+name: Fetch Quartz Theme
+run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $sanctum-reborn.pistachio
+build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
